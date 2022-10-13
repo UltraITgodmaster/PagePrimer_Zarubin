@@ -9,6 +9,7 @@
       Title="Page2">
 
     <Grid>
-        
+        <Label Content="Страничка 2" HorizontalAlignment="Left" Margin="298,65,0,0" VerticalAlignment="Top" Height="46" Width="190" Background="{x:Null}"/>
+
     </Grid>
 </Page>
